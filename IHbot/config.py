@@ -19,7 +19,7 @@ class Config(object):
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
     LOAD = []
     NO_LOAD = ['translation', 'rss', 'weather']
-    WEBHOOK = False
+    WEBHOOK = TRUE
     URL = https://soulcoinsecurity.herokuapp.com
 
     # OPTIONAL
