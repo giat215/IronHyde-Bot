@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Yash-Garg/IronHyde-bot",
+  "repository": "https://github.com/giat215/IronHyde-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -16,15 +16,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1200238538:AAG2nfy8I2p66n9AvxYm013G-m8044dlBao"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "482352271"
+      "value": "1127975045"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "Yash Garg"
+      "description": "michael2156",
+      "value": "Michael Erlin"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -32,7 +32,7 @@
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "https://soulcoinsecurity.herokuapp.com"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
@@ -52,7 +52,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/YGarg917"
+      "value": "https://www.t.me/michael2156"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
