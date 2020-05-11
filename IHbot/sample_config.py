@@ -20,7 +20,7 @@ class Config(object):
     LOAD = []
     NO_LOAD = ['translation', 'rss', 'weather']
     WEBHOOK = False
-    URL = None
+    URL = https://soulcoinsecurity.herokuapp.com
 
     # OPTIONAL
     SUDO_USERS = []  # List of id's (not usernames) for users which have sudo access to the bot.
